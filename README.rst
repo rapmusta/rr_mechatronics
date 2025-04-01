@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
-=======================================
+# Mechatronics Repository
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+This repository's purpose: A one-stop shop for Mechatronics/ Mechanical Assembly/ Electronics specifications/ technical onboarding documentation.
 
-Read the tutorial here:
+[https://rr-rr-mechatronics.readthedocs-hosted.com/en/latest/](https://rr-rr-mechatronics.readthedocs-hosted.com/en/latest/)
 
-https://docs.readthedocs.io/en/stable/tutorial/
