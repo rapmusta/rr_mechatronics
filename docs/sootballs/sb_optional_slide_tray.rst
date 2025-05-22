@@ -1,4 +1,4 @@
-Sb Optional Slide Tray.Rst
+Sb Optional Slide Tray
 ==========================
 
 TODO: Fill this in.

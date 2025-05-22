@@ -47,12 +47,11 @@ Optional & Accessories
 
 .. toctree::
    :maxdepth: 1
+
    sb_optional_slide_tray
    sb_optional_safety_laser
-   sb_optional_strobeligt
-   sb_accessories_barcodescanne
    sb_accessories_manual_charger
-   sb_accesories_auto_charger
+   sb_accessories_auto_charger
    autocharging_engineering_manual_gen3_1
 
 ---
