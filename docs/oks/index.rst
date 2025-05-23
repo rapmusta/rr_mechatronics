@@ -1,16 +1,23 @@
-##################
-Sootballs Mechatronics
-##################
-
-This section is for all mechatronics related documentation for the Sootballs AMR product line
-Purpose of this documentation is to be one-stop guide for all mechatronics members.
-
+OKS - ASRS
+========================
 
 .. toctree::
    :maxdepth: 1
-   :caption: Contents:
+   :caption: ASRS
 
-   products/index
-   maintenance/index
-   kt/index
-   quick_links/index
+   asrs_overview
+  
+.. toctree::
+   :maxdepth: 1
+   :caption: Add-ons
+
+   asrs_auto_charger
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Support & Guides
+
+   maintenance
+   knowledge_transfer
+   quick_links
+   welcome

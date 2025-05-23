@@ -12,12 +12,31 @@ Run Locally
 
 4. Run to install autobuild:
 
+   For linux:
+
     ``sudo apt install python3-sphinx-autobuild``
+
+   For windows:
+   
+    ``pip install sphinx-autobuild``
+   
+
 
 5. Run the below command to clean and build the ``index.html`` locally:
 
-   ``make clean html``
+   For linux:
+
+    ``make clean html``
+
+   For windows:
+   
+    ``.\make.bat clean html``
+   
 
    You can also auto-build the documentation on changes with live-reload in the browser using the below command:
 
-   ``sphinx-autobuild . ./build/html --port <any-port-number>``
+   For linux:
+    ``sphinx-autobuild . ./build/html --port <any-port-number>``
+
+   For windows:
+   ``sphinx-autobuild . .\build\html --port <any-port-number>``
