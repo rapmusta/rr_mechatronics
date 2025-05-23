@@ -11,10 +11,9 @@ Hardware
 .. toctree::
    :maxdepth: 1
 
-   hardware_specs_gen3_1
+   hardware_specs
    hardware_bom_gen3_1
    hardware_bom_gen3_1_xxl
-   hardware_mounting_gen3_1
 
 ---
 
